@@ -1,0 +1,90 @@
+
+body {
+
+	background-color: lightpink;
+
+}
+
+@font-face {
+	font-family: "Vera Serif";
+	src: url("https://mdn.github.io/shared-assets/fonts/VeraSeBd.ttf")
+}
+
+#Box {
+	width: 320px;
+	height: 50px;
+	padding: 10px;
+	border: 5px solid black;
+	margin-left: 35%;
+
+}
+
+
+h1 {
+	font-size: 40px;
+	font-family: "Vera Serif";
+	color: deeppink;
+	font-weight: bolder;
+	text-decoration: underline;
+	center: center;
+	position: fixed;
+	background-color: white;
+	opacity: 75%;
+}
+
+#Fudge {
+	margin-left: 35%;
+	height: 500px;
+}
+
+
+ol {
+	font-size: 20px;
+	font-family: Lucida;
+	color: darkgreen;
+	font-weight: 20px;
+}
+
+ul {
+	font-size: 25px;
+	font-family: cambria;
+	color: darkgreen;
+	font-weight: 25px;
+}
+
+img {
+
+	height: 300px;
+	float:center;
+	background-position: center;
+
+}
+
+h2 {
+	font-size: 30px;
+	font-family: helvetica;
+	color: darkolivegreen;
+	background: hotpink;
+}
+
+p {
+	color: black;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 25px;
+
+}
+
+.Gemma {
+	color: green;
+
+}
+
+.Eloise {
+	color: deeppink;
+}
+
+
+#colorRed {
+	color: red;
+}
